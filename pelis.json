@@ -1,0 +1,51 @@
+[
+    {
+    "title": "Pulp Fiction",
+    "rating": 8.50,
+    "tags": ["acción", "coral", "90's"],
+    "director": "Quentin Taranta"
+  },
+    {
+    "title": "Cinema Paradiso",
+    "rating": 10,
+    "tags": ["drama", "familia", "nostalgia"],
+    "director": "Giuseppe Tornatore"
+  },
+    {
+    "title": "Avengers Endgame",
+    "rating": 4,
+    "tags": ["acción", "superheroes", "ciencia-ficcion"],
+    "director": "Russo Brothers"
+  },
+    {
+    "title": "Avatar",
+    "rating": 8,
+    "tags": ["acción", "familia", "ciencia-ficcion"],
+    "director": "James Cameron"
+  },
+    {
+    "title": "Vertigo",
+    "rating": 10,
+    "tags": ["drama", "misterio", "plot-twist"],
+    "director": "El gordo Hitchcock"
+  },
+    {
+    "title": "Rapidos y Furiosos X",
+    "rating": 1,
+    "tags": ["acción", "saga", "autos"],
+    "director": "xx"
+  },
+    {
+    "title": "Hojas de Otoño",
+    "rating": 8,
+    "tags": ["comedia", "romantica", "cortita"],
+    "director": "Aki Kaurismaki"
+  },
+    {
+    "title": "Barbie",
+    "rating": 7,
+    "tags": ["musical", "feminista", "comedia"],
+    "director": "Greta Gerwig"
+  }
+]
+
